@@ -57,7 +57,7 @@ Projeto desenvolvido durante a **Imersão Discover** oferecida pela [Rocketseat]
 ## 🛠 Tecnologias utilizadas
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascripthttps://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <br>
 
