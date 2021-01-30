@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Dev.Finaces" title="Dev.Finaces" src="./assets/01.gif" width="600px" />
+    <img alt="Dev.Finaces" title="Dev.Finaces" src="./assets/01.gif" width="700px" />
 </h3>
 
 <p align="center"> 💲 <strong>Dev.Finances - Maratona Discover</strong> 🚧 </p>
@@ -47,7 +47,7 @@ Projeto desenvolvido durante a **Imersão Discover** oferecida pela [Rocketseat]
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Dev.Finaces" title="#Dev.Finaces" src="./assets/01.gif" width="600px">
+  <img alt="Dev.Finaces" title="#Dev.Finaces" src="./assets/01.gif" width="700px">
 </p>
 
 <br>
