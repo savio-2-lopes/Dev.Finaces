@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Dev.Finaces" title="Dev.Finaces" src="./assets/01.gif" width="700px" />
+    <img alt="Dev.Finaces" title="Dev.Finaces" src="./assets/01.gif" width="600px" />
 </h3>
 
 <p align="center"> 💲 <strong>Dev.Finances - Maratona Discover</strong> 🚧 </p>
