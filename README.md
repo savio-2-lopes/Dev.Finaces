@@ -50,7 +50,6 @@ Projeto desenvolvido durante a **Imersão Discover** oferecida pela [Rocketseat]
   <img alt="Dev.Finaces" title="#Dev.Finaces" src="./assets/01.gif" width="700px">
 </p>
 
-AIzaSyA6tvkgbUIPp3nLEJMGb8EWXZ
 <br>
 
 <a id="tecnologias"></a>
