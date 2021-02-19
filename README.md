@@ -65,7 +65,7 @@ Projeto desenvolvido durante a **Imersão Discover** oferecida pela [Rocketseat]
 
 ## 🚀 Como executar o projeto
 
-Para executar a aplicação é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Para executar a aplicação, é bom ter um editor para trabalhar com o código, como, por exemplo, o [VSCode](https://code.visualstudio.com/).
 
 <br>
 
